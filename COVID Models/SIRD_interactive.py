@@ -149,3 +149,4 @@ a_slider.on_changed(update_a)
 b_slider.on_changed(update_b)
 c_slider.on_changed(update_c)
 
+plt.show()
