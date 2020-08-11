@@ -9,4 +9,5 @@ Additionally, ODU's Python4Physics course helped me solidify skills in data anal
 ![Four Inline Plots](/README_images/analysis_plots.png)
 
 As for fitting data, there was an interesting exercise involving the use of scipy's optimize tool to fit to different distributions, in particular fitting the Breit-Wigner Distribution to real data by minimizing its Chi-Squared value. I think this will serve as a good basis for future problems in optimization.
+
 ![Breit-Wigner](/README_images/breit-wigner.png)
