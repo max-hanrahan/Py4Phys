@@ -7,3 +7,4 @@ The project of which I am most proud can be found in the [COVD Models folder](ht
 ### Data analysis/data fitting
 Additionally, ODU's Python4Physics course helped me solidify skills in data analysis and data fitting as well. The most interesting task in this category was calculating pi by use of random numbers and use Matplotlib to visually display the data. 
 ![Four Inline Plots](/README_images/analysis_plots.png)
+As for fitting data, there was an interesting exercise involving the use of scipy's optimize tool to fit to different distributions, in particular fitting the Breit-Wigner Distribution to real data by minimizing its Chi-Squared value. 
